@@ -1,0 +1,15 @@
+
+
+/* Class = "UINavigationItem"; title = "All Reviews"; ObjectID = "8iD-eH-wFc"; */
+"8iD-eH-wFc.title" = "All Reviews";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "G7J-io-YsI"; */
+"G7J-io-YsI.title" = "Filter";
+
+
+/* Class = "UITableViewController"; title = "Top 3 Words"; ObjectID = "WE3-vl-Wd8"; */
+"WE3-vl-Wd8.title" = "Top 3 Words";
+
+
+/* Class = "UIBarButtonItem"; title = "Top 3 words"; ObjectID = "Xmh-l0-ZNb"; */
+"Xmh-l0-ZNb.title" = "Top 3 words";
